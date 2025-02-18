@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ghosty1122005
-- 👀 I’m interested in java and php
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on php 
+- Hi, I’m @ghosty1122005
+- Software Development, AI, and Robotics
+- Working on Robotics and AI
+- 
   
 
 <!---
