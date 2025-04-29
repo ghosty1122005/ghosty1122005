@@ -1,7 +1,7 @@
 - Hi, I’m @ghosty1122005
 - Software Development, AI, and Robotics
-- Working on Robotics and AI
-- 
+- Working on ROS and AI
+- Computer Vision and AR
   
 
 <!---
